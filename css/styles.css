@@ -1,0 +1,63 @@
+
+body {
+  margin: 0;
+  text-align: center;
+   background-color: #E4F9F5;
+
+}
+
+hr {
+  height:4px;
+  width: 800px;
+  border-width:0;
+  color:gray;
+  background-color:gray;
+}
+
+h1{
+  margin: 0;
+  font-size: 400%;
+  font-family: 'Sacramento', sans-serif;
+}
+
+h3{
+  text-align: left;
+}
+
+div{
+  margin: auto;
+
+  width: 800px;
+}
+
+p{
+  text-align: left;
+}
+
+li{
+  text-align: left;
+}
+.top-container{
+ position: relative;
+ padding-top: 100px;
+}
+.middle-container {
+
+}
+.bottom-container{
+
+}
+.laptop-pic{
+  height: 200px;
+  width: 200px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+
+}
