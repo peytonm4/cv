@@ -37,6 +37,9 @@ p{
 li{
   text-align: left;
 }
+.skills{
+  margin-top: 5%;
+}
 .top-container{
  position: relative;
  padding-top: 100px;
