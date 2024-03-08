@@ -58,3 +58,79 @@ li{
   height: 150px;
   width: 150px;
 }
+.country-dance{
+  margin-top: 20px;
+  width: 100%;
+  border: 5px solid white;
+}
+.poster{
+  width: 70%;
+  border-color: black;
+  color: white;
+  margin-left: 15%;
+  font-family: "Pacifico", cursive;
+  font-size: 40px;
+}
+.background{
+  background-color: black;
+  width: 70%;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+#title{
+  text-align: center;
+}
+#posterdescription{
+  text-align: center;
+}
+.horizontal-nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.horizontal-nav li {
+  display: inline;
+}
+
+.horizontal-nav li a {
+  display: inline-block;
+  padding: 10px;
+  text-decoration: none;
+  color: black;
+  background-color: white;
+}
+
+.horizontal-nav li a:hover {
+  background-color: #f0f0f0;
+}
+.flag>div>div{
+  width: 150px;
+  height: 150px;
+  background-color: white;
+  border-radius: 50%;
+  position: relative;
+  top: 25%;
+}
+.flag>div{
+  width: 100%;
+  height: 50%;
+  background-color: #4a0c05;
+  top: 25%;
+  position: relative;
+}
+.flag{
+  background-color: #444f2d;
+  height: 500px;
+  width: 800px;
+  border: 5px solid;
+  border-color: #aebbc2;
+  margin-top: 40px;
+}
+.flag img{
+  height: 95%;
+  width: 95%;
+  border-radius: 50%;
+  position: relative;
+  top: 2.5%;
+}
